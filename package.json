@@ -1,0 +1,22 @@
+{
+  "name": "shape-calculator",
+  "version": "1.0.0",
+  "description": "Shape Calculator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavdarji/shape-calculator.git"
+  },
+  "author": "Vaibhav Darji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhavdarji/shape-calculator/issues"
+  },
+  "homepage": "https://github.com/vaibhavdarji/shape-calculator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
